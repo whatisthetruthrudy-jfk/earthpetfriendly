@@ -1,0 +1,15 @@
+Lifestyle photographs from Pexels. Photos do not depict specific advertised product listings.
+bowl: https://www.pexels.com/photo/5482828/
+ball: https://www.pexels.com/photo/11512309/
+bed: https://www.pexels.com/photo/14599352/
+brush: https://www.pexels.com/photo/19145885/
+leash: https://www.pexels.com/photo/11512143/
+carrier: https://www.pexels.com/photo/16374265/
+puzzle: https://www.pexels.com/photo/9376756/
+scoop: https://www.pexels.com/photo/8434676/
+cat: https://www.pexels.com/photo/30866553/
+rabbit: https://www.pexels.com/photo/6357179/
+bird: https://www.pexels.com/photo/29083886/
+fish: https://www.pexels.com/photo/30427233/
+hero: https://www.pexels.com/photo/9376756/
+Product photograph sources are listed in product-photo-sources.txt.
