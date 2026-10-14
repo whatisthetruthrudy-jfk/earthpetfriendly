@@ -1,0 +1,1 @@
+const search=document.getElementById('category-search');if(search)search.addEventListener('input',()=>{const term=search.value.trim().toLowerCase();let count=0;document.querySelectorAll('.category').forEach(card=>{card.hidden=!card.dataset.search.includes(term);if(!card.hidden)count++});document.getElementById('no-results').hidden=count>0});
